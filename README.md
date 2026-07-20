@@ -64,7 +64,8 @@ Understanding where customers abandon the conversion journey is critical for imp
 ```
 Customer-Conversion-Funnel-Analytics/
 │
-├── funnel_drop_analysis.ipynb
+├── Customer Conversion Funnel Analytics.ipynb
+├── Customer Conversion Funnel Analytics.py
 └── README.md
 ```
 
